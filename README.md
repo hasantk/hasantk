@@ -11,6 +11,9 @@ hasan.atik16860@gmail.com - My Email Address.
 </div>
 </p>
 <br>
+<pre style="font-size: x-large;">
+</pre>
 
-
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=hsntk&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsntk&amp;layout=compact&theme=radical" />
 
