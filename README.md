@@ -13,8 +13,8 @@ hasan.atik16860@gmail.com - My Email Address.
 <br>
 <div align="center">
 <a target="_blank" align="center">
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
- 
+ <img align="center | top" height="300" width="400" alt="GIF"
+            src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u/giphy.gif">
 </a>
 </div>
 <br>
