@@ -11,18 +11,6 @@ hasan.atik16860@gmail.com - My Email Address.
 </div>
 </p>
 <br>
-<div align="center">
-<a target="_blank" align="center">
- <img align="center | top" height="300" width="400" alt="GIF"
-            src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u/giphy.gif">
-</a>
-</div>
-<br>
-<pre style="font-size: x-large;">
 
-</pre>
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Emirhan-Dogan&show_icons=true&theme=radical)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhan-Dogan&amp;layout=compact&theme=radical" />
 
 
